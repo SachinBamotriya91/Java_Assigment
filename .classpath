@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Day1_Assigment"/>
+	<classpathentry kind="src" path="Day2_Assigment"/>
+	<classpathentry kind="src" path="Day3_Assigment"/>
+	<classpathentry kind="src" path="Day4_Assigment"/>
+	<classpathentry kind="src" path="Day5_Assigment"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
